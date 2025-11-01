@@ -15,8 +15,9 @@ Customer-Churn-Prediction-ANN/
 │   └── Churn_Modelling.csv      
 │
 ├── images/                           
-│   ├── server.py            
-│   └── utils.py                 
+│   ├── accuracy.png           
+│   ├── loss.png           
+│   └── NN-architecture.png                 
 │
 ├── .gitignore
 ├── pipeline.ipynb
@@ -75,4 +76,4 @@ Model Accuracy: 79.75%
 
 ## Contributor
 
-[Saumyajeet Varma](https://github.com/Saumyajeet-Varma)
+<a href="https://github.com/Saumyajeet-Varma"><img src="https://contrib.rocks/image?repo=Saumyajeet-Varma/Customer-Churn-Prediction-ANN" /></a>
